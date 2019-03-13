@@ -1,0 +1,80 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+
+
+.slider h3, .slider h5, .TDKLG h4{
+	text-shadow: 1px 1px 3px rgba(0,0,0,1);
+}
+
+.parallax-container{
+	height: 100%;
+	padding-bottom: 10px;
+}
+
+.parallax img{
+	filter: grayscale(0.3);
+	opacity: 0.8 !important;
+}
+
+
+.gallery{
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+
+
+.kontak{
+	padding: 5px 0;
+}
+
+.foot{
+	padding: 10px 0;
+}
+
+.pengumuman{
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.trans{
+	opacity: 0.7;
+}
+
+.gamj{
+		padding: 5px 5px 0 5px;
+}
+
+.parallax-container p{
+	line-height: 17px;
+}
+
+.padti{
+	padding-top: 3px !important;
+	padding-bottom: 3px !important;
+
+}
+
+.map{
+	padding: 2px;
+}
+
+@media screen and (max-width: 600px){
+	.logodklg{
+		width: 100px;
+		padding-top: 3px;
+		margin-left: 20%;
+	}
+	.slider h3{
+		font-size: 35px;
+	}
+	.slider h5{
+		font-size: 20px;
+	}
+	.margan{
+		margin : 5px;
+	}
+}
